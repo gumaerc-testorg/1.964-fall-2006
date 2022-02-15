@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Project presentation given by a student in the class.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-964-design-for-sustainability-fall-2006/445f0ada2666e2e19ab3c05f6c724eb4_sophie_johnson.pdf
+file: /media/courses/1-964-design-for-sustainability-fall-2006/445f0ada2666e2e19ab3c05f6c724eb4_sophie_johnson.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: sophie_johnson.pdf
 uid: 445f0ada-2666-e2e1-9ab3-c05f6c724eb4

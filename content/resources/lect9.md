@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture presentation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-964-design-for-sustainability-fall-2006/4c7ad57394df03e2bc2655d90c3f20af_lect9.pdf
+file: /media/courses/1-964-design-for-sustainability-fall-2006/4c7ad57394df03e2bc2655d90c3f20af_lect9.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lect9.pdf
 uid: 4c7ad573-94df-03e2-bc26-55d90c3f20af
