@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: eceb230e-4a86-2bcc-5b0a-9b00758a86a2
 resourcetype: Document
 title: celine_paoli.pdf
 uid: 9f110d18-5758-5085-bf6f-c4de14bb9c3a

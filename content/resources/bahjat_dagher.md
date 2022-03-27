@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: eceb230e-4a86-2bcc-5b0a-9b00758a86a2
 resourcetype: Document
 title: bahjat_dagher.pdf
 uid: f75dd83e-6e06-e6fe-b2fd-4c1c373cf948

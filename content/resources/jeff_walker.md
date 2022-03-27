@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: eceb230e-4a86-2bcc-5b0a-9b00758a86a2
 resourcetype: Document
 title: jeff_walker.pdf
 uid: 3f34af38-020c-17cf-0816-b8130dc0f4ed

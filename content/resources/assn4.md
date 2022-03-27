@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 357423f7-bb89-7258-6407-76289337423d
 resourcetype: Document
 title: assn4.pdf
 uid: 16bfd387-93a8-ecd8-8867-e77245d1b5c5

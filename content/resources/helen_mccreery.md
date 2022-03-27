@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: eceb230e-4a86-2bcc-5b0a-9b00758a86a2
 resourcetype: Document
 title: helen_mccreery.pdf
 uid: 2af0e4d1-1f4c-ff6c-8ff3-0ffa1470182c

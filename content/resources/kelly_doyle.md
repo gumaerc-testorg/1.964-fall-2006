@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: eceb230e-4a86-2bcc-5b0a-9b00758a86a2
 resourcetype: Document
 title: kelly_doyle.pdf
 uid: 3a7b03b4-205e-2fc1-deac-b16585eb71e9

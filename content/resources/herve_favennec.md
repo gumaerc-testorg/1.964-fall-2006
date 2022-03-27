@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: eceb230e-4a86-2bcc-5b0a-9b00758a86a2
 resourcetype: Document
 title: herve_favennec.pdf
 uid: 6fec8aae-c34e-d3a3-e8bb-1e9c0135a2dd
