@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Related Resources
 uid: 52efa578-bdfd-d4d9-c7f6-64c1f3c3c376
 ---
