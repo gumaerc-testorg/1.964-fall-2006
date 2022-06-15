@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: The syllabus contains an overview and grading criteria participation
+  guidelines.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus
 uid: 02e54fa3-c290-ebbf-e67b-043cb2d8a465
 ---
