@@ -5,6 +5,7 @@ file: /courses/1-964-design-for-sustainability-fall-2006/f7c56d98ad2d85ea90ffeae
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: nasrudin_nazrali.pdf
 uid: f7c56d98-ad2d-85ea-90ff-eaeeef12c96b
 ---
 Project presentation given by a student in the class.
-

@@ -5,6 +5,7 @@ file: /courses/1-964-design-for-sustainability-fall-2006/3f34af38020c17cf0816b81
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: jeff_walker.pdf
 uid: 3f34af38-020c-17cf-0816-b8130dc0f4ed
 ---
 Project presentation given by a student in the class.
-
