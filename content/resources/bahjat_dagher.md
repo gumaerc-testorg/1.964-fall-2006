@@ -2,6 +2,7 @@
 content_type: resource
 description: Project presentation given by a student in the class.
 file: /courses/1-964-design-for-sustainability-fall-2006/f75dd83e6e06e6feb2fd4c1c373cf948_bahjat_dagher.pdf
+file_size: 160036
 file_type: application/pdf
 learning_resource_types:
 - Projects

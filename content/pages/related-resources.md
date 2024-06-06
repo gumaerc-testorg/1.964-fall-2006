@@ -8,7 +8,7 @@ title: Related Resources
 uid: 52efa578-bdfd-d4d9-c7f6-64c1f3c3c376
 ---
 
-{{% resource_link "8e4899fd-938c-4b1a-ab43-d945c2805570" "My Footprint" %}} is a Web page that calculates the amount of land and water resources that an individual uses. Use the "Ecological Footprint Quiz" to calculate the effects of your daily lifestyle.
+[My Footprint](http://myfootprint.org/) is a Web page that calculates the amount of land and water resources that an individual uses. Use the "Ecological Footprint Quiz" to calculate the effects of your daily lifestyle.
 
 Intent of the Footprint Quiz
 ----------------------------

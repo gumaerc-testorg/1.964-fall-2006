@@ -12,7 +12,7 @@ Chaturvedi, Swati, and John Ochsendorf. "Global Environmental Impacts due to Cem
 
 Dholakia, R., and M. Wackernagel. "Ecological Footprint Accounts: Moving Sustainability from Concept to Measurable Goal." _Oakland: Redefining Progress_ (October 1999).
 
-Ford, Edward. "The Theory and Practice of Impermanence." _Harvard Design Magazine_ 3 (Fall 1997). ({{% resource_link "4c287b8b-a8ee-42ce-bdaf-e8b44a84b650" "PDF" %}})
+Ford, Edward. "The Theory and Practice of Impermanence." _Harvard Design Magazine_ 3 (Fall 1997). ([PDF](http://www.scribd.com/doc/39568720/The-Theory-and-Practice-of-Impermanence))
 
 Hawken, Paul, Amory Lovins, and L. Hunter Lovins. "Building Blocks." Chapter 5 in _Natural Capitalism: Creating the Next Industrial Revolution_. Boston: Little, Brown and Company, 1999. ISBN: 0316353167.
 

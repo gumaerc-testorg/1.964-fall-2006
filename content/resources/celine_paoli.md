@@ -2,6 +2,7 @@
 content_type: resource
 description: Project presentation given by a student in the class.
 file: /courses/1-964-design-for-sustainability-fall-2006/9f110d1857585085bf6fc4de14bb9c3a_celine_paoli.pdf
+file_size: 15364
 file_type: application/pdf
 learning_resource_types:
 - Projects
