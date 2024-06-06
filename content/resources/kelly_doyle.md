@@ -2,6 +2,7 @@
 content_type: resource
 description: Project presentation given by a student in the class.
 file: /courses/1-964-design-for-sustainability-fall-2006/3a7b03b4205e2fc1deacb16585eb71e9_kelly_doyle.pdf
+file_size: 28003
 file_type: application/pdf
 learning_resource_types:
 - Projects

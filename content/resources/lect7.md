@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture presentation.
 file: /courses/1-964-design-for-sustainability-fall-2006/5f1c7066ae8eae6d0c0898c57f40b984_lect7.pdf
+file_size: 971845
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
