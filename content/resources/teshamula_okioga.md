@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Project presentation given by a student in the class.
-file: /courses/1-964-design-for-sustainability-fall-2006/543178e14dce585e3da57fa6a5d6e6a5_teshamula_okioga.pdf
+file: /ol-ocw-studio-app/courses/1-964-design-for-sustainability-fall-2006/543178e14dce585e3da57fa6a5d6e6a5_teshamula_okioga.pdf
 file_size: 25288
 file_type: application/pdf
 learning_resource_types:

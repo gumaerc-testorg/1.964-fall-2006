@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Project presentation given by a student in the class.
-file: /courses/1-964-design-for-sustainability-fall-2006/3f34af38020c17cf0816b8130dc0f4ed_jeff_walker.pdf
+file: /ol-ocw-studio-app/courses/1-964-design-for-sustainability-fall-2006/3f34af38020c17cf0816b8130dc0f4ed_jeff_walker.pdf
 file_size: 30166
 file_type: application/pdf
 learning_resource_types:
