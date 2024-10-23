@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation.
-file: /courses/1-964-design-for-sustainability-fall-2006/16eaf5d42079f043401a187a616c1565_lect5.pdf
+file: /ol-ocw-studio-app/courses/1-964-design-for-sustainability-fall-2006/16eaf5d42079f043401a187a616c1565_lect5.pdf
 file_size: 1092648
 file_type: application/pdf
 learning_resource_types:
