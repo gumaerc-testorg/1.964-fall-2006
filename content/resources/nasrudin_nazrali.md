@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Project presentation given by a student in the class.
-file: /ol-ocw-studio-app/courses/1-964-design-for-sustainability-fall-2006/f7c56d98ad2d85ea90ffeaeeef12c96b_nasrudin_nazrali.pdf
+file: /courses/1-964-design-for-sustainability-fall-2006/f7c56d98ad2d85ea90ffeaeeef12c96b_nasrudin_nazrali.pdf
 file_size: 23815
 file_type: application/pdf
 learning_resource_types:
