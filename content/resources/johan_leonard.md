@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Project presentation given by a student in the class.
-file: /ol-ocw-studio-app/courses/1-964-design-for-sustainability-fall-2006/ec09b3bc1c5f7393774bc24280fa4f06_johan_leonard.pdf
+file: /courses/1-964-design-for-sustainability-fall-2006/ec09b3bc1c5f7393774bc24280fa4f06_johan_leonard.pdf
 file_size: 21136
 file_type: application/pdf
 learning_resource_types:
