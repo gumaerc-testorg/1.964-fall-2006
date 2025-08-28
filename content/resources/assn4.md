@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment.
-file: /courses/1-964-design-for-sustainability-fall-2006/16bfd38793a8ecd88867e77245d1b5c5_assn4.pdf
+file: /ol-ocw-studio-app/courses/1-964-design-for-sustainability-fall-2006/16bfd38793a8ecd88867e77245d1b5c5_assn4.pdf
 file_size: 86992
 file_type: application/pdf
 learning_resource_types:

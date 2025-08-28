@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Project presentation given by a student in the class.
-file: /courses/1-964-design-for-sustainability-fall-2006/47e20af5628aa7e729876b5f4870ae6f_sean_homem.pdf
+file: /ol-ocw-studio-app/courses/1-964-design-for-sustainability-fall-2006/47e20af5628aa7e729876b5f4870ae6f_sean_homem.pdf
 file_size: 25282
 file_type: application/pdf
 learning_resource_types:
